@@ -1,0 +1,4 @@
+﻿  pratice.cpp
+C:\Users\BellSilver\Desktop\git\coding_interview_practice\ArrayAndString\ArrayAndString\pratice.cpp(84,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\BellSilver\Desktop\git\coding_interview_practice\ArrayAndString\ArrayAndString\pratice.cpp(95,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ArrayAndString.vcxproj -> C:\Users\BellSilver\Desktop\git\coding_interview_practice\ArrayAndString\Debug\ArrayAndString.exe
