@@ -19,6 +19,7 @@
 # Fortran module files
 *.mod
 *.smod
+*.pdb
 
 # Compiled Static libraries
 *.lai
@@ -30,3 +31,7 @@
 *.exe
 *.out
 *.app
+
+**/.vs/*
+**/Debug/*
+
