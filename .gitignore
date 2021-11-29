@@ -34,4 +34,6 @@
 
 **/.vs/*
 **/Debug/*
+**/OutPut/*
+**/Build/*
 
