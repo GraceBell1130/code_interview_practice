@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StackAndQueue", "StackAndQu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedList", "LinkedList\LinkedList.vcxproj", "{2923BDEC-0D0C-4315-8B82-DB4A7E148DDE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ControlBit", "ControlBit\ControlBit.vcxproj", "{DE80E345-CBBB-4305-84A7-60F023D3ED1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{2923BDEC-0D0C-4315-8B82-DB4A7E148DDE}.Release|x64.Build.0 = Release|x64
 		{2923BDEC-0D0C-4315-8B82-DB4A7E148DDE}.Release|x86.ActiveCfg = Release|Win32
 		{2923BDEC-0D0C-4315-8B82-DB4A7E148DDE}.Release|x86.Build.0 = Release|Win32
+		{DE80E345-CBBB-4305-84A7-60F023D3ED1E}.Debug|x64.ActiveCfg = Debug|x64
+		{DE80E345-CBBB-4305-84A7-60F023D3ED1E}.Debug|x64.Build.0 = Debug|x64
+		{DE80E345-CBBB-4305-84A7-60F023D3ED1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE80E345-CBBB-4305-84A7-60F023D3ED1E}.Debug|x86.Build.0 = Debug|Win32
+		{DE80E345-CBBB-4305-84A7-60F023D3ED1E}.Release|x64.ActiveCfg = Release|x64
+		{DE80E345-CBBB-4305-84A7-60F023D3ED1E}.Release|x64.Build.0 = Release|x64
+		{DE80E345-CBBB-4305-84A7-60F023D3ED1E}.Release|x86.ActiveCfg = Release|Win32
+		{DE80E345-CBBB-4305-84A7-60F023D3ED1E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
